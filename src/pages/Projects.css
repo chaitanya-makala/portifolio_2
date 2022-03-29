@@ -1,0 +1,18 @@
+.projects {
+  margin-top: 150px;
+  padding-top: 30px;
+  background-image: var(--grad);
+}
+
+.project-title {
+  margin: 20px 0 50px 0;
+  color: var(--s_color);
+  text-align: center;
+  font-size: 35px;
+}
+
+@media (max-width: 770px) {
+  .project-title {
+    font-size: 35px;
+  }
+}
